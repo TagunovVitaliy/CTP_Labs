@@ -1,0 +1,3 @@
+cd C:\Users\Виталик\Documents\KTP\Лаба_3_КТП
+javac Waypoint.java Map2D.java Location.java JMapCell.java AStarState.java AStarPathfinder.java AStarApp.java
+java AStarApp
