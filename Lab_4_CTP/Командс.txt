@@ -1,0 +1,3 @@
+cd C:\Users\Виталик\Documents\KTP\Лаба_4_КТП
+javac FractalExplorer.java FractalGenerator.java JImageDisplay.java Mandelbrot.java
+java FractalExplorer
